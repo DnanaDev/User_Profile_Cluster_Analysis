@@ -6,7 +6,7 @@ Data Source : IMDB Account.
 1. Attempting to Find patterns in <b>My IMDb movie Ratings </b>over a period of 5 Years, 345 Films.<b> Find insights about preferences etc., Important Features </b>Using (I) EDA (II) K-Means Clustering.
 2. Find <b>Interesting Clusters of Movies Using K-Means Clustering</b>.
 3. Use as many features as possible with feature engineering to add features, one-hot encoding categorical features like Genres, Directors etc. (~275 Features)
-3. Use <b>Principal Component Analysis </b>to reduce dimensionality of data and improve Clustering output. (~85 Features capturing 50% of the Variance of the data.)
+3. Use <b>Principal Component Analysis </b>to reduce dimensionality of data and improve Clustering output. (120 Features capturing 50% of the Variance of the data.)
 4. Gathering Insights on preferences by performing <b>hypothesis testing on these clusters</b> with respect to mean Ratings.<br>
 ![Clusters](Graphs/Cluster_formed.jpg)
 

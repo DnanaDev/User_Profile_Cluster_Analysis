@@ -8,7 +8,7 @@ Data Source : IMDB Account.
 3. Use as many features as possible with feature engineering to add features, one-hot encoding categorical features like Genres, Directors etc. (~275 Features)
 3. Use <b>Principal Component Analysis </b>to reduce dimensionality of data and improve Clustering output. (120 Features capturing 50% of the Variance of the data.)
 4. Gathering Insights on preferences by performing <b>hypothesis testing on these clusters</b> with respect to mean Ratings.<br>
-![Clusters](Graphs/Cluster_formed.jpg)
+![Clusters](Graphs/Cluster_formed_kprot.png)
 
 ### Insights :
 <p> <b>Statistically Significant Clusters </b>indicate that the author:<br>
